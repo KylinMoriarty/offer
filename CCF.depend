@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1554313349 source:c:\users\administrator\desktop\ccf\main.cpp
+	<bits/stdc++.h>
+	"test.hpp"
+	"Stack_Quene.hpp"
+
+1554131210 source:c:\users\administrator\desktop\ccf\test.cpp
+	<iostream>
+	"test.hpp"
+
+1554313407 c:\users\administrator\desktop\ccf\test.hpp
+	<vector>
+
+1554131211 source:c:\users\administrator\desktop\ccf\sum_solution.cpp
+	<iostream>
+	"test.hpp"
+
+1554137058 source:c:\users\administrator\desktop\ccf\reconstructbt.cpp
+	<iostream>
+	"test.hpp"
+
+1554133996 source:c:\users\administrator\desktop\ccf\order.cpp
+	<iostream>
+	"test.hpp"
+
+1554137607 c:\users\administrator\desktop\ccf\stack_quene.hpp
+
+1554312926 source:c:\users\administrator\desktop\ccf\reorderarray.cpp
+	<iostream>
+	"test.hpp"
+
