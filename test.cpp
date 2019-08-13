@@ -11,6 +11,7 @@ int Solution::jumpFloor(int number) {
             return 2;
         if(number>2)
             return jumpFloor(number-1)+jumpFloor(number-2);
+
 }//跳台阶
 
 ULL Solution::stairs(int n)
@@ -29,3 +30,11 @@ ULL Solution::stairs(int n)
     }
     return f2;
 }//跳台阶 斐波那契数列
+
+int Solution::Onlyonce(int* a,int n)
+{
+    int t=0;
+    for(int i=0;i<n;i++)
+        t=t^a[i];
+    return t;
+}

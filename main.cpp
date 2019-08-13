@@ -1,8 +1,7 @@
-//#include <iostream>
-//#include <cstdio>
 #include <bits/stdc++.h>
 #include "test.hpp"
 #include "Stack_Quene.hpp"
+#include "Stack_min.hpp"
 
 using namespace std;
 //
@@ -40,9 +39,13 @@ using namespace std;
 
  int main()
  {
-              Solution sol;
 
-     return 0;
+       int a[9]={1,1,2,2,3,3,4,4,8};
+
+       Solution sol;
+       cout<<sol.Onlyonce(a,9);
+
+
  }
 
 

@@ -1,14 +1,15 @@
 # depslib dependency file v1.0
-1554313349 source:c:\users\administrator\desktop\ccf\main.cpp
+1562858649 source:c:\users\administrator\desktop\ccf\main.cpp
 	<bits/stdc++.h>
 	"test.hpp"
 	"Stack_Quene.hpp"
+	"Stack_min.hpp"
 
-1554131210 source:c:\users\administrator\desktop\ccf\test.cpp
+1562858685 source:c:\users\administrator\desktop\ccf\test.cpp
 	<iostream>
 	"test.hpp"
 
-1554313407 c:\users\administrator\desktop\ccf\test.hpp
+1562858642 c:\users\administrator\desktop\ccf\test.hpp
 	<vector>
 
 1554131211 source:c:\users\administrator\desktop\ccf\sum_solution.cpp
@@ -25,7 +26,47 @@
 
 1554137607 c:\users\administrator\desktop\ccf\stack_quene.hpp
 
-1554312926 source:c:\users\administrator\desktop\ccf\reorderarray.cpp
+1554998395 source:c:\users\administrator\desktop\ccf\reorderarray.cpp
+	<iostream>
+	"test.hpp"
+
+1554738428 source:c:\users\administrator\desktop\ccf\hassubtree.cpp
+	<iostream>
+	"test.hpp"
+
+1554740358 source:c:\users\administrator\desktop\ccf\mirror.cpp
+	<iostream>
+	"test.hpp"
+
+1559398153 source:c:\users\administrator\desktop\ccf\printmatrix.cpp
+	<iostream>
+	"test.hpp"
+
+1554744040 c:\users\administrator\desktop\ccf\stack_min.hpp
+
+1559398087 source:c:\users\administrator\desktop\ccf\ispoporder.cpp
+	<iostream>
+	"test.hpp"
+	<vector>
+
+1559398298 source:c:\users\administrator\desktop\ccf\printfromtoptobottom.cpp
+	<iostream>
+	"test.hpp"
+	<queue>
+
+1559399421 source:c:\users\administrator\desktop\ccf\verifypostorderofbst.cpp
+	<iostream>
+	"test.hpp"
+
+1559397686 source:c:\users\administrator\desktop\ccf\findpath.cpp
+	<iostream>
+	"test.hpp"
+
+1559401152 source:c:\users\administrator\desktop\ccf\clone.cpp
+	<iostream>
+	"test.hpp"
+
+1561041501 source:c:\users\administrator\desktop\ccf\morethanhalfnum.cpp
 	<iostream>
 	"test.hpp"
 

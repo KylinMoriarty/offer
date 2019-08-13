@@ -33,11 +33,22 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="Clock.h" />
+		<Unit filename="Clone.cpp" />
+		<Unit filename="FindPath.cpp" />
+		<Unit filename="HasSubtree.cpp" />
+		<Unit filename="IsPopOrder.cpp" />
+		<Unit filename="Mirror.cpp" />
+		<Unit filename="MoreThanHalfNum.cpp" />
 		<Unit filename="Order.cpp" />
+		<Unit filename="PrintFromTopToBottom.cpp" />
 		<Unit filename="Stack_Quene.hpp" />
+		<Unit filename="Stack_min.hpp" />
 		<Unit filename="Sum_Solution.cpp" />
+		<Unit filename="VerifyPostOrderOfBST.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="printMatrix.cpp" />
 		<Unit filename="reConstructBT.cpp" />
+		<Unit filename="reOrderArray.cpp" />
 		<Unit filename="test.cpp" />
 		<Unit filename="test.hpp" />
 		<Extensions>
