@@ -2,7 +2,6 @@
 //的台阶总共有多少种跳法（先后次序不同算不同的结果）。
 #include<iostream>
 #include "test.hpp"
-
 using namespace std;
 
 int Solution::jumpFloor(int number) {

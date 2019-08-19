@@ -2,7 +2,6 @@
 #include "test.hpp"
 #include "Stack_Quene.hpp"
 #include "Stack_min.hpp"
-#include "Sequence.hpp"
 
 using namespace std;
 //
@@ -41,31 +40,10 @@ using namespace std;
  int main()
  {
 
-       int a[9]={3,2,1,6,7,8,5,4,9};
-       int *p=a;
-       vector<int> vec;
+       int a[9]={1,1,2,2,3,3,4,4,8};
 
-       for(int i=0;i<9;i++)
-       {
-           vec.push_back(a[i]);
-       }
-
-
-      // Solution sol;
-       //cout<<sol.MoreThanHalfNum(vec);
-       Sequence seq;
-      // seq.InsertSort(vec);
-       //seq.ShellSort(vec);
-       //seq.QuickSort(vec,0,vec.size()-1);
-       seq.MergeSort(p,0,8);
-       //seq.HeapSortRev(vec);
-      // seq.BubbleSort(vec);
-       for(int i=0;i<9;i++)
-       {
-           cout<<a[i]<<" ";
-       }
-       cout<<endl;
-       //cout<<sol.Onlyonce(a,9);
+       Solution sol;
+       cout<<sol.Onlyonce(a,9);
 
 
  }
