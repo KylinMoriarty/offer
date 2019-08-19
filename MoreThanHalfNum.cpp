@@ -1,24 +1,26 @@
-#include<iostream>
-#include"test.hpp"
+#include <iostream>
+#include "test.hpp"
+#include "Sequence.hpp"
 using namespace std;
 
 int Solution::MoreThanHalfNum(vector<int> numbers){
-     int result = numbers[0];
-     int len = numbers.size();
-     int count = 1;
 
-     for(int i = 1; i < len; ++i)
-     {
-         if(numbers[i] == result)
-             count ++;
-         else if(count == 0)
-         {
-             result = numbers[i];
-             count = 1;
-         }
-         else
-             count --;
-     }
-     return result;
+//     Sequence seq;
+//     seq.InsertSort(numbers);
+//     return numbers[numbers.size()/2];
+
+       int a=numbers[numbers.size()/2];
+       int time=0;
+        for(int i=0;i<numbers.size();i++)
+        {
+            if(numbers[i]==a)
+                time++;
+        }
+
+        if(time*2>numbers.size())
+        return numbers[numbers.size()/2];
+        else
+            return 0;
+
 
 }

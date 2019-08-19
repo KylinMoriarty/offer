@@ -1,11 +1,12 @@
 # depslib dependency file v1.0
-1562858649 source:c:\users\administrator\desktop\ccf\main.cpp
+1566219382 source:c:\users\administrator\desktop\ccf\main.cpp
 	<bits/stdc++.h>
 	"test.hpp"
 	"Stack_Quene.hpp"
 	"Stack_min.hpp"
+	"Sequence.hpp"
 
-1562858685 source:c:\users\administrator\desktop\ccf\test.cpp
+1565704861 source:c:\users\administrator\desktop\ccf\test.cpp
 	<iostream>
 	"test.hpp"
 
@@ -66,7 +67,16 @@
 	<iostream>
 	"test.hpp"
 
-1561041501 source:c:\users\administrator\desktop\ccf\morethanhalfnum.cpp
+1565781909 source:c:\users\administrator\desktop\ccf\morethanhalfnum.cpp
 	<iostream>
 	"test.hpp"
+	"Sequence.hpp"
+
+1566218960 c:\users\administrator\desktop\ccf\sequence.hpp
+	<vector>
+
+1566219080 source:c:\users\administrator\desktop\ccf\sequence.cpp
+	<iostream>
+	"Sequence.hpp"
+	<vector>
 
