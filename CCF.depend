@@ -1,72 +1,82 @@
 # depslib dependency file v1.0
-1562858649 source:c:\users\administrator\desktop\ccf\main.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\main.cpp
 	<bits/stdc++.h>
 	"test.hpp"
 	"Stack_Quene.hpp"
 	"Stack_min.hpp"
+	"Sequence.hpp"
 
-1562858685 source:c:\users\administrator\desktop\ccf\test.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\test.cpp
 	<iostream>
 	"test.hpp"
 
-1562858642 c:\users\administrator\desktop\ccf\test.hpp
+1566221850 c:\users\administrator\desktop\ccf\test.hpp
 	<vector>
 
-1554131211 source:c:\users\administrator\desktop\ccf\sum_solution.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\sum_solution.cpp
 	<iostream>
 	"test.hpp"
 
-1554137058 source:c:\users\administrator\desktop\ccf\reconstructbt.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\reconstructbt.cpp
 	<iostream>
 	"test.hpp"
 
-1554133996 source:c:\users\administrator\desktop\ccf\order.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\order.cpp
 	<iostream>
 	"test.hpp"
 
-1554137607 c:\users\administrator\desktop\ccf\stack_quene.hpp
+1566221850 c:\users\administrator\desktop\ccf\stack_quene.hpp
 
-1554998395 source:c:\users\administrator\desktop\ccf\reorderarray.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\reorderarray.cpp
 	<iostream>
 	"test.hpp"
 
-1554738428 source:c:\users\administrator\desktop\ccf\hassubtree.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\hassubtree.cpp
 	<iostream>
 	"test.hpp"
 
-1554740358 source:c:\users\administrator\desktop\ccf\mirror.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\mirror.cpp
 	<iostream>
 	"test.hpp"
 
-1559398153 source:c:\users\administrator\desktop\ccf\printmatrix.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\printmatrix.cpp
 	<iostream>
 	"test.hpp"
 
-1554744040 c:\users\administrator\desktop\ccf\stack_min.hpp
+1566221850 c:\users\administrator\desktop\ccf\stack_min.hpp
 
-1559398087 source:c:\users\administrator\desktop\ccf\ispoporder.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\ispoporder.cpp
 	<iostream>
 	"test.hpp"
 	<vector>
 
-1559398298 source:c:\users\administrator\desktop\ccf\printfromtoptobottom.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\printfromtoptobottom.cpp
 	<iostream>
 	"test.hpp"
 	<queue>
 
-1559399421 source:c:\users\administrator\desktop\ccf\verifypostorderofbst.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\verifypostorderofbst.cpp
 	<iostream>
 	"test.hpp"
 
-1559397686 source:c:\users\administrator\desktop\ccf\findpath.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\findpath.cpp
 	<iostream>
 	"test.hpp"
 
-1559401152 source:c:\users\administrator\desktop\ccf\clone.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\clone.cpp
 	<iostream>
 	"test.hpp"
 
-1561041501 source:c:\users\administrator\desktop\ccf\morethanhalfnum.cpp
+1566221850 source:c:\users\administrator\desktop\ccf\morethanhalfnum.cpp
 	<iostream>
 	"test.hpp"
+	"Sequence.hpp"
+
+1566221850 c:\users\administrator\desktop\ccf\sequence.hpp
+	<vector>
+
+1566221850 source:c:\users\administrator\desktop\ccf\sequence.cpp
+	<iostream>
+	"Sequence.hpp"
+	<vector>
 

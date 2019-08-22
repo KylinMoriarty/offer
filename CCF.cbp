@@ -41,6 +41,8 @@
 		<Unit filename="MoreThanHalfNum.cpp" />
 		<Unit filename="Order.cpp" />
 		<Unit filename="PrintFromTopToBottom.cpp" />
+		<Unit filename="Sequence.cpp" />
+		<Unit filename="Sequence.hpp" />
 		<Unit filename="Stack_Quene.hpp" />
 		<Unit filename="Stack_min.hpp" />
 		<Unit filename="Sum_Solution.cpp" />
